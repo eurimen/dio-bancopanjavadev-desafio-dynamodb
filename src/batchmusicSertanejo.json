@@ -1,0 +1,44 @@
+{
+    "MusicSertanejo": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Gustavo Lima"},
+                  "SongTitle": {"S": "Cara da Derrota"},
+                  "AlbumTitle": {"S": "Buteco Goiania"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Gustavo Lima"},
+                  "SongTitle": {"S": "Bloqueado"},
+                  "AlbumTitle": {"S": "Buteco In Boston"},
+                  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Gustavo Lima"},
+                  "SongTitle": {"S": "Ficha Limpa"},
+                  "AlbumTitle": {"S": "O Embaixador Falando de Amor"},
+                  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Gustavo Lima"},
+                "SongTitle": {"S": "Ze da Recaida"},
+                "AlbumTitle": {"S": "O Embaixador The Legacy"},
+                "SongYear": {"S": "2021"}
+              }
+          }
+      }
+      ]
+}
